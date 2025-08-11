@@ -34,7 +34,7 @@
         ```
     * **FFmpeg:** Скачайте FFmpeg с [официального сайта](https://ffmpeg.org/download.html) 
     и добавьте его в системную переменную `PATH`. Это позволит программе вызывать его из любой директории.
-    [Пример для Windows](https://blog.pruffme.com/instrukciya-po-ustanovke-i-rabote-s-programmoj-ffmpeg-na-windows/)
+    [Пример для Windows](https://blog.pruffme.com/instrukciya-po-ustanovke-i-rabote-s-programmoj-ffmpeg-na-windows/).
 
 4.  **Создайте файл `.env`:**
     В корневой папке проекта создайте файл с названием `.env` и добавьте в него ваши данные для входа на сайт:
@@ -52,5 +52,5 @@
 ```bash
 python main.py
 ```
-После этого должен развирнутся сервис по адресу
+После этого должен развернутся сервис по адресу
 * http://127.0.0.1:7860
