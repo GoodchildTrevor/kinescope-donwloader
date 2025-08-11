@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+gradio==5.34.2
+playwright==1.54.0
+python-dotenv>=1.0.0
+urllib3==2.5.0
